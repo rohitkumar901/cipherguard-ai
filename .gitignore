@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+data/vaults/
+data/reports/
+*.cgvault
+.idea/
+dist/
+build/
